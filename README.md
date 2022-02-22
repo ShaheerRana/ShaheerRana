@@ -10,7 +10,7 @@ The body: Altium, PSIM, SolidWorks
 How it comes together: I combine two different worlds of engineering, research with practical application, as I materialize my passion for entrepreneurship in robotics, motors, controls, and more innovative fields.
 
 My next chapter?
-Making the next big thing happen. I’m seeking 4 month internships starting in January 2022 or September 2022 and would love to talk to anyone with shared interests!
+Making the next big thing happen. I’m seeking 4 month internships starting in September 2022 and would love to talk to anyone with shared interests!
 
 <!--
 **ShaheerRana/ShaheerRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
