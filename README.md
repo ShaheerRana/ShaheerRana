@@ -4,8 +4,6 @@ Like a writer bringing pages to life with words, I bring electronics to life wit
 My story?
 I'm Shaheer, an aspiring mechatronics engineer at the University of Waterloo building the future of travel. I lead our Hyperloop design team Waterloop and direct all technical aspects of the Canadian Hyperloop Conference, North America's only current Hyperloop competition.
 
-![image](https://user-images.githubusercontent.com/72288850/134071038-7bbd403e-218d-467f-9e03-10ff5b891d80.png)
-
 My pen?
 The ink: C/C++, Python, Kernel
 The body: Altium, PSIM, SolidWorks
