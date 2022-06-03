@@ -3,19 +3,16 @@ Like a writer bringing pages to life with words, I bring electronics to life wit
 
 My story?
 
-I'm Shaheer, an aspiring mechatronics engineer at the University of Waterloo building the future of travel. I lead our Hyperloop design team Waterloop and direct all technical aspects of the Canadian Hyperloop Conference, North America's only current Hyperloop competition.
+I'm Shaheer, an aspiring mechatronics engineer at the University of Waterloo.
 
-My pen?
+My pen?  
+The ink: C, C++, Python, Bash/zsh, JavaScript, Java, Make, GNU, VHDL, Assembly, MySQL, Node.js, QT  
+The chassis: Altium, PSIM, Soldering, Oscilloscopes, Signal Generators, Wiring, SolidWorks. 
 
-The ink: C/C++, Python, Kernel
-
-The body: Altium, PSIM, SolidWorks
-
-How it comes together: I combine two different worlds of engineering, research with practical application, as I materialize my passion for entrepreneurship in robotics, motors, controls, and more innovative fields.
+How it comes together: I combine two different worlds of engineering, research with practical application, as I materialize my passion for robotics, computing, and more innovative fields. 
 
 My next chapter?
-Making the next big thing happen. I’m seeking 4 month internships starting in September 2022 and would love to talk to anyone with shared interests!
-
+Making the next big thing happen. I’m seeking 4 month internships starting in September 2022 or May 2023 and would love to talk to anyone with shared interests!
 <!--
 **ShaheerRana/ShaheerRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
