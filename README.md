@@ -1,8 +1,7 @@
 ### Welcome
 Like a writer bringing pages to life with words, I bring electronics to life with code, driven by a firm desire to create the technology of tomorrow, today.
 
-My story?
-
+My story?  
 I'm Shaheer, an aspiring mechatronics engineer at the University of Waterloo.
 
 My pen?  
